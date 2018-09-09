@@ -7,21 +7,21 @@
 ## Learning Materials
 *My self-study materials and their versions*
 
-####TextBook: 
+#### TextBook: 
 CS:APP 3e International Edition
 
-####Course Website: 
+#### Course Website: 
 15-213/18-213/15-513: Intro to Computer Systems, Fall 2017
 <http://www.cs.cmu.edu/afs/cs/academic/class/15213-f17/www/schedule.html>
 
-####Labs Source:
+#### Labs Source:
 Update in Sep. 2018
 <http://csapp.cs.cmu.edu/3e/labs.html>
 
 
 ## Labs
 
-###Lab 0: C Programming
+### Lab 0: C Programming
 
 Estimate time: 1-2 hrs
 
