@@ -30,3 +30,13 @@ Estimate time: 1-2 hrs
 [Requirement](CLab/cprogramminglab.pdf)
 
 [My Solution](CLab/handout/)
+
+### Lab 1: Data Lab
+
+Estimate time: 15-20 hrs (some are really tricky :( )
+
+[Source code](DataLab/datalab-handout.tar)
+
+[Requirement](DataLab/datalab.pdf)
+
+[My Solution](DataLab/handout/)
