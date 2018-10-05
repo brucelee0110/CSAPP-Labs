@@ -29,7 +29,9 @@ Estimate time: 1-2 hrs
 
 [Requirement](CLab/cprogramminglab.pdf)
 
-[My Solution](CLab/handout/)
+[My Solution](CLab/handout/) 
+
+[AutoGrading] 100/100
 
 ### Lab 1: Data Lab
 
@@ -40,3 +42,6 @@ Estimate time: 15-20 hrs (some are really tricky :( )
 [Requirement](DataLab/datalab.pdf)
 
 [My Solution](DataLab/handout/)
+
+[AutoGrading] 71/71
+
